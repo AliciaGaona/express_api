@@ -17,3 +17,7 @@ __Probando metodo Get de explorers__
 
 ---
 
+## GET Crea un endpoint que te regrese un explorer mediando un ID
+
+
+
