@@ -30,5 +30,21 @@ __Probando metodo Get de explorers__
 
 ![image](https://user-images.githubusercontent.com/99162884/166471641-791765d8-0368-4c72-8873-94f8e6bc037a.png)
 
+---
+
+## POST Crea un endpoint que se encargue de crear un explorer
+
+
+![image](https://user-images.githubusercontent.com/99162884/166609546-2aae507d-12b6-4689-94cf-a984daffc684.png)
+
+![image](https://user-images.githubusercontent.com/99162884/166609584-2e39e1f8-ffd2-44a1-8421-8f69c038e39b.png)
+
+![image](https://user-images.githubusercontent.com/99162884/166609593-1a31795e-d0ba-44d9-b7e0-2a258a580e7f.png)
+
+
+
+
+
+
 
 
