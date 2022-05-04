@@ -54,6 +54,15 @@ __Probando metodo Get de explorers__
 ![image](https://user-images.githubusercontent.com/99162884/166610241-3de4bf8f-ae3e-4468-a17a-bb331c749186.png)
 
 
+## DELETE Crea un endpoint para eliminar un explorer
+
+![image](https://user-images.githubusercontent.com/99162884/166613116-05c7fd98-380f-40e7-afdc-0324a9043120.png)
+
+
+![image](https://user-images.githubusercontent.com/99162884/166613122-78cdc1ce-82a8-4a82-a021-a2a13df3acb3.png)
+
+
+![image](https://user-images.githubusercontent.com/99162884/166613131-8e9ce830-6982-4c1d-ae1d-6cc35af12465.png)
 
 
 
