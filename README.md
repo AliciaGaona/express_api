@@ -20,4 +20,15 @@ __Probando metodo Get de explorers__
 ## GET Crea un endpoint que te regrese un explorer mediando un ID
 
 
+![image](https://user-images.githubusercontent.com/99162884/166471596-8216df5f-f23b-4932-82b2-163de198ea38.png)
+
+
+
+![image](https://user-images.githubusercontent.com/99162884/166471628-193e95fb-4144-42f9-a96a-8d6057492b39.png)
+
+
+
+![image](https://user-images.githubusercontent.com/99162884/166471641-791765d8-0368-4c72-8873-94f8e6bc037a.png)
+
+
 
